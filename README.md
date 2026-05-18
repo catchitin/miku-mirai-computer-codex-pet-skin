@@ -8,10 +8,10 @@ The sprites were created with assistance from Codex and prepared as a small desk
 
 - Display name: `Miku Mirai Computer Black Outline Crisp V2`
 - Main manifest: `pet.json`
-- Main spritesheet: `spritesheet-v2-copy-left-plus-to-right-20260518-thinking-note-left-fixedhair-20260518.png`
+- Main spritesheet: `spritesheet-v2-row7-left-hair-fixed-note-20260518.png`
 - Compatibility copies: `spritesheet.png` and `spritesheet.webp`
 
-This version keeps the solid pink heart in the first idle frame, copies the original left-top yellow plus style to the right-top endpoint frames, uses the unbroken 1052 wave/hover frames, and includes cyan music-note markers in row 7 with the row-7 right hair repaired.
+This version keeps the solid pink heart in the first idle frame, copies the original yellow plus style, uses the unbroken 1052 wave/hover frames, and includes the repaired thinking row hair with the left music note.
 
 ## Install
 
