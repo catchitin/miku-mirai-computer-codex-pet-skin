@@ -5,7 +5,7 @@ An unofficial, fan-made Codex desktop pet skin inspired by Hatsune Miku.
 The sprites were created with assistance from Codex and prepared as a small desktop companion skin. This project is shared for non-commercial fan use only.
 
 <p align="center">
-  <img src="assets/preview.png" alt="Miku Mirai Computer preview" width="720">
+  <img src="assets/preview.png?v=20260518-miku2" alt="Miku Mirai Computer preview" width="720">
 </p>
 
 ## Current Version
@@ -72,3 +72,4 @@ The `pet.json`, README text, and packaging notes may be reused under the MIT Lic
 The character artwork and sprites are shared only as a non-commercial fan work. Do not use the artwork or sprites commercially, and do not imply that this project is official.
 
 See [LICENSE](LICENSE) for details.
+
