@@ -26,6 +26,23 @@ This version keeps the solid pink heart in the first idle frame, copies the orig
 
 The manifest points to the versioned PNG spritesheet. `spritesheet.png` and `spritesheet.webp` are included as compatibility copies.
 
+## 中文說明
+
+這是一個非官方、非商用的 Codex 桌面小寵物 skin，角色靈感來自初音未來。
+
+目前這版是我自己用 Codex 協助生成和反覆修圖整理出來的版本。它保留了實心粉紅愛心、黃色十字裝飾、1052 版沒有破圖的 hover/wave 動作，以及 thinking/running row 的 cyan 音符。
+
+不過我修圖能力差不多到極限了，右下角頭髮邊緣還是可能有一點破圖或透明邊緣不乾淨。如果你會修 spritesheet、透明背景、邊緣 alpha、像素清理，歡迎開 PR 幫忙改善。
+
+歡迎 PR：
+
+- 修右下角頭髮邊緣破圖
+- 清理透明背景或 jagged edge
+- 改善動畫格之間的穩定度
+- 修 `pet.json` 或安裝說明
+
+請不要加入商用用途、官方聲明，或使用未授權的官方圖/其他畫師作品。
+
 ## Fan Work Notice
 
 This is an unofficial fan work. It is not affiliated with, endorsed by, sponsored by, or approved by Crypton Future Media, Inc. or any artist.
