@@ -4,6 +4,8 @@ An unofficial, fan-made Codex desktop pet skin inspired by Hatsune Miku.
 
 The sprites were created with assistance from Codex and prepared as a small desktop companion skin. This project is shared for non-commercial fan use only.
 
+![Miku Mirai Computer preview](assets/preview.png)
+
 ## Current Version
 
 - Display name: `Miku Mirai Computer Black Outline Crisp V2`
@@ -12,6 +14,18 @@ The sprites were created with assistance from Codex and prepared as a small desk
 - Compatibility copies: `spritesheet.png` and `spritesheet.webp`
 
 This version keeps the solid pink heart in the first idle frame, copies the original yellow plus style, uses the unbroken 1052 wave/hover frames, and includes the repaired thinking row hair with the left music note.
+
+## Preview
+
+| Idle | Hover / Wave | Thinking |
+| --- | --- | --- |
+| ![Idle animation](assets/idle.gif) | ![Hover wave animation](assets/hover-wave.gif) | ![Thinking animation](assets/thinking.gif) |
+
+## Spritesheet Overview
+
+![Spritesheet overview](assets/spritesheet-overview.png)
+
+This overview is included to make PR review easier. The full-size spritesheet files are still the source of truth for the pet.
 
 ## Install
 
