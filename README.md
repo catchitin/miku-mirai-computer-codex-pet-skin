@@ -1,8 +1,17 @@
-# Miku Mirai Computer Codex Pet Skin
+# Miku Mirai Computer Black Outline Crisp V2
 
 An unofficial, fan-made Codex desktop pet skin inspired by Hatsune Miku.
 
 The sprites were created with assistance from Codex and prepared as a small desktop companion skin. This project is shared for non-commercial fan use only.
+
+## Current Version
+
+- Display name: `Miku Mirai Computer Black Outline Crisp V2`
+- Main manifest: `pet.json`
+- Main spritesheet: `spritesheet-v2-copy-left-plus-to-right-20260518-thinking-note-left-fixedhair-20260518.png`
+- Compatibility copies: `spritesheet.png` and `spritesheet.webp`
+
+This version keeps the solid pink heart in the first idle frame, copies the original left-top yellow plus style to the right-top endpoint frames, uses the unbroken 1052 wave/hover frames, and includes cyan music-note markers in row 7 with the row-7 right hair repaired.
 
 ## Install
 
@@ -15,7 +24,7 @@ The sprites were created with assistance from Codex and prepared as a small desk
 
 3. In Codex, open pet settings and refresh or re-select the custom pet.
 
-The skin uses `pet.json` and `spritesheet.png`. A `spritesheet.webp` copy is also included for compatibility or manual use.
+The manifest points to the versioned PNG spritesheet. `spritesheet.png` and `spritesheet.webp` are included as compatibility copies.
 
 ## Fan Work Notice
 
